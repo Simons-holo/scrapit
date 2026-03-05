@@ -298,6 +298,7 @@ notify:
 | `min_length` / `max_length` | `2` / `500` | String/list length |
 | `pattern` | `^\d{4}$` | Regex must match |
 | `in` | `[a, b, c]` | Value must be in enum |
+| `not_in` | `[a, b, c]` | Value must NOT be in enum |
 
 ---
 
